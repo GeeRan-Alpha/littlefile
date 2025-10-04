@@ -105,9 +105,9 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000181?AuthInfo=xxx
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000208?AuthInfo=xxx&userid=
 #EXTINF:-1 group-title="卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" epg-url="https://epg.112114.xyz/pp.xml",浙江卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000224?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CETV" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" epg-url="https://epg.112114.xyz/pp.xml",CETV1
+#EXTINF:-1 group-title="其它影视" tvg-name="CETV1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" epg-url="https://epg.112114.xyz/pp.xml",CETV1
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000363?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CETV" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" epg-url="https://epg.112114.xyz/pp.xml",CETV4
+#EXTINF:-1 group-title="其它影视" tvg-name="CETV4" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" epg-url="https://epg.112114.xyz/pp.xml",CETV4
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000427?AuthInfo=xxx&userid=
 #EXTINF:-1 group-title="其它" tvg-name="其它" tvg-logo="https://epg.112114.xyz/logo/其它.png" epg-url="https://epg.112114.xyz/pp.xml",其它
  #genre#
@@ -133,15 +133,15 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000407?AuthInfo=xxx
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000404?AuthInfo=xxx&userid=
 #EXTINF:-1 group-title="央视" tvg-name="CCTV 央视文化精品" tvg-logo="https://epg.112114.xyz/logo/CCTV 央视文化精品.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV 央视文化精品
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000406?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="CETV" tvg-name="CETV 早期教育" tvg-logo="https://epg.112114.xyz/logo/CETV 早期教育.png" epg-url="https://epg.112114.xyz/pp.xml",CETV 早期教育
+#EXTINF:-1 group-title="其它影视" tvg-name="CETV 早期教育" tvg-logo="https://epg.112114.xyz/logo/CETV 早期教育.png" epg-url="https://epg.112114.xyz/pp.xml",CETV 早期教育
 rtsp://123.147.113.180:554/04000001/01000000004000000000000000000400?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="未分类" tvg-name="CHC 动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC 动作电影.png" epg-url="https://epg.112114.xyz/pp.xml",CHC 动作电影
+#EXTINF:-1 group-title="其它影视" tvg-name="CHC 动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC 动作电影.png" epg-url="https://epg.112114.xyz/pp.xml",CHC 动作电影
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000392?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="未分类" tvg-name="CHC 高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC 高清电影.png" epg-url="https://epg.112114.xyz/pp.xml",CHC 高清电影
+#EXTINF:-1 group-title="其它影视" tvg-name="CHC 高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC 高清电影.png" epg-url="https://epg.112114.xyz/pp.xml",CHC 高清电影
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000394?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="未分类" tvg-name="CHC 家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC 家庭影院.png" epg-url="https://epg.112114.xyz/pp.xml",CHC 家庭影院
+#EXTINF:-1 group-title="其它影视" tvg-name="CHC 家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC 家庭影院.png" epg-url="https://epg.112114.xyz/pp.xml",CHC 家庭影院
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000393?AuthInfo=xxx&userid=
-#EXTINF:-1 group-title="未分类" tvg-name="CHC 影迷电影" tvg-logo="https://epg.112114.xyz/logo/CHC 影迷电影.png" epg-url="https://epg.112114.xyz/pp.xml",CHC 影迷电影
+#EXTINF:-1 group-title="其它影视" tvg-name="CHC 影迷电影" tvg-logo="https://epg.112114.xyz/logo/CHC 影迷电影.png" epg-url="https://epg.112114.xyz/pp.xml",CHC 影迷电影
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000394?AuthInfo=xxx&userid=
 #EXTINF:-1 group-title="地方频道" tvg-name="爱上4K HEVC" tvg-logo="https://epg.112114.xyz/logo/爱上4K HEVC.png" epg-url="https://epg.112114.xyz/pp.xml",爱上4K HEVC
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000391?AuthInfo=xxx&userid=
